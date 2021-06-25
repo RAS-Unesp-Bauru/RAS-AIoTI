@@ -5,7 +5,7 @@ import paho.mqtt.client as mqtt
 
 #MQTT Connection to Broker
 clientMQTT = mqtt.Client()
-clientMQTT.connect("177.94.189.10", 9095)
+clientMQTT.connect("broker_ip", "port")
 
 # Video Capture 
 capture = cv2.VideoCapture(0)
