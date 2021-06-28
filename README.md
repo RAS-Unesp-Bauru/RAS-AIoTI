@@ -99,10 +99,12 @@ pip install paho-mqtt
 
 ## Node-red importing
 
+For managing all MQTT data, we choose Node-red. The application allow us to configure how the data will be storage in MySQL Databases, connecting to the local server running in a RaspBerry Pi 3.
+For use the file “AIoTI-Node-red-DataFlow.json” please install the node <a href="https://flows.nodered.org/node/node-red-node-mysql">**node-red-node-mysql**</a>, which will be connected to  MySQL Server. Alter install the node you can import the flow using the json file, configure the internal servers (MQTT Broker and MySQL server).
 
-## AIoTI Team
 
-> AIoTI
+# AIoTI Team
+
 
 | <a href="https://github.com/claudiogabriel-1" target="_blank">**Claudio Gabriel Rosa Dujanski**</a> | <a href="https://github.com/zechelf" target="_blank">**Felipe Maziero Zechel (Scrum Master)**</a> | <a href="https://github.com/JpZwAr" target="_blank">**João Pedro Olimpio**</a> |
 | :---: |:---:| :---:|
