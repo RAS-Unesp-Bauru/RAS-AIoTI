@@ -1,8 +1,19 @@
 # RAS-AIOTI
 IoT project from RAS - Unesp Bauru
 
+<p align="center">
+  <a href="https://sites.google.com/unesp.br/rasunespbauru/home">
+    <img src="https://user-images.githubusercontent.com/50799373/88114032-6396b280-cb89-11ea-9de9-656eb9bc2d31.png" alt="RAS logo" width="500" height="140">
+  </a>
+</p>
+
 # AIOTI
 The main objective of this project is to apply IoT (Internet of Things) concepts in order to improve the comfort, security and efficiency.
+
+<p align="center">
+<img width="400" alt="Artboard 1sentry-eye" src="https://drive.google.com/uc?id=1JNsbnh-6Kv8pHXiV7ynk6OVSnsXE5bV6">
+</p>
+
 
 ## Introduction
 
