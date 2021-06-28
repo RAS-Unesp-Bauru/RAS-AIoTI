@@ -86,7 +86,7 @@ Paho-MQTT
 pip install paho-mqtt
 ```
 
-## Dev Team
+## AIoTI Team
 
 > AIoTI
 
