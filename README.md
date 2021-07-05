@@ -108,12 +108,12 @@ For use the file “AIoTI-Node-red-DataFlow.json”, please install the node <a 
 
 | <a href="https://github.com/claudiogabriel-1" target="_blank">**Claudio Gabriel Rosa Dujanski**</a> | <a href="https://github.com/zechelf" target="_blank">**Felipe Maziero Zechel (Scrum Master)**</a> | <a href="https://github.com/JpZwAr" target="_blank">**João Pedro Olimpio**</a> |
 | :---: |:---:| :---:|
-| [![FVCproductions](https://avatars.githubusercontent.com/u/72581866?v=4)](http://fvcproductions.com)    | [![FVCproductions](https://avatars.githubusercontent.com/u/51209420?v=4)](http://fvcproductions.com) | [![FVCproductions](https://avatars.githubusercontent.com/u/54182167?v=4)](http://fvcproductions.com)  |
+| [![AIoTI](https://avatars.githubusercontent.com/u/72581866?v=4)](https://github.com/claudiogabriel-1)   | [![AIoTI](https://avatars.githubusercontent.com/u/51209420?v=4)](https://github.com/zechelf) | [![AIoTI](https://avatars.githubusercontent.com/u/54182167?v=4)](https://github.com/JpZwAr)  |
 | <a href="https://github.com/claudiogabriel-1" target="_blank">`github.com/claudiogabriel-1`</a> | <a href="https://github.com/zechelf" target="_blank">`github.com/zechelf`</a> | <a href="https://github.com/JpZwAr" target="_blank">`github.com/JpZwAr`</a> |  
 <br />
 <br />
 
 | <a href="https://github.com/lucas-serrano" target="_blank">**Lucas Serrano Costa**</a> | <a href="https://github.com/MatheusMABR" target="_blank">**Matheus Augusto Barbosa Rodrigues**</a> | <a href="https://github.com/paulo-gigliotti" target="_blank">**Paulo Gigliotti (Product Owner)**</a> |
 | :---: |:---:| :---:|
-| [![FVCproductions](https://avatars.githubusercontent.com/u/72429343?v=4)](http://fvcproductions.com)    | [![FVCproductions](https://avatars.githubusercontent.com/u/55408283?v=4)](http://fvcproductions.com) | [![FVCproductions](https://avatars.githubusercontent.com/u/54952751?v=4)](http://fvcproductions.com)  |
+| [![AIoTI](https://avatars.githubusercontent.com/u/72429343?v=4)](https://github.com/lucas-serrano)    | [![AIoTI](https://avatars.githubusercontent.com/u/55408283?v=4)](https://github.com/MatheusMABR) | [![AIoTI](https://avatars.githubusercontent.com/u/54952751?v=4)](https://github.com/paulo-gigliotti)  |
 | <a href="https://github.com/lucas-serrano" target="_blank">`github.com/lucas-serrano`</a> | <a href="https://github.com/MatheusMABR" target="_blank">`github.com/MatheusMABR`</a> | <a href="https://github.com/paulo-gigliotti" target="_blank">`github.compaulo-gigliotti`</a> |
