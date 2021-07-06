@@ -11,9 +11,8 @@ IoT project from RAS - Unesp Bauru
 The main objective of this project is to apply IoT (Internet of Things) concepts in order to improve the comfort, security and efficiency.
 
 <p align="center">
-<img width="400" alt="Artboard 1sentry-eye" src="https://drive.google.com/uc?id=1JNsbnh-6Kv8pHXiV7ynk6OVSnsXE5bV6">
+  <img width="400" alt="Art2Artboard 1RAS_AIOTI" src="https://user-images.githubusercontent.com/72429343/124671306-ab424700-de8b-11eb-8635-2c0a1b7ce510.png">
 </p>
-
 
 ## Introduction
 
