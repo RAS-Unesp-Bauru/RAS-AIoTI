@@ -1,0 +1,76 @@
+<link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400" rel="stylesheet">
+<link rel="stylesheet" href="app.css">
+
+<img src="https://drive.google.com/uc?id=1Km9Yf7xf512jON1sZC0FjqipxKmTKrCb" alt="Italian Trulli" width="400" height="400">
+
+<h1>RAS</h1>
+<p class="lead">Verifique os dados salvos no banco de dados do <strong>AIoTI</strong> </p>
+
+<!--
+
+<table>
+  <caption style="padding: 5px"> Tabela de acesso </caption>
+  <tr>
+    <th>Tabelas salvas nos banco de dados</th>
+  </tr>
+<% for(var i=0; i < data1.length; i++) { %>
+   <tr>
+     <td><%= data1[i].Tables_in_aioti %></td>
+   </tr>
+<% } %>
+</table>
+
+-->
+
+<table>
+  <caption style="padding: 5px"> Dados recentes do Reconhecimento de Face </caption>
+  <tr> <!-- 'For' fica dentro da linha das colunas -->
+    <% for(var i=0; i < append2.length; i++) { %>
+      <th style = "text-transform:capitalize">
+        <%= append2[i] %>
+      </th>
+    <% } %>
+  </tr>
+<% for(var i=0; i < data2.length; i++) { %>
+   <tr>
+     <td><%= data2[i].id %></td>
+     <td><%= data2[i].nome %></td>
+     <td><%= data2[i].acesso %></td>
+     <td><%= data2[i].hora %></td>
+   </tr>
+<% } %>
+</table>
+
+<table>
+  <caption style="padding: 5px"> Dados recentes do Monitoramento de Fluxos</caption>
+  <tr>
+    <th>ID</th>
+    <th>Número</th>
+    <th>Hora</th>
+  </tr>
+<% for(var i=0; i < data3.length; i++) { %>
+   <tr>
+     <td><%= data3[i].id %></td>
+     <td><%= data3[i].num %></td>
+     <td><%= data3[i].time %></td>
+   </tr>
+<% } %>
+</table>
+
+<table>
+  <caption style="padding: 5px"> Dados recentes da Impressora 3D</caption>
+  <tr>
+    <th>ID</th>
+    <th>Status</th>
+    <th>Hora</th>
+  </tr>
+<% for(var i=0; i < data4.length; i++) { %>
+   <tr>
+     <td><%= data4[i].id %></td>
+     <td><%= data4[i].status %></td>
+     <td><%= data4[i].time %></td>
+   </tr>
+<% } %>
+</table>
+
+<footer><strong>Made by:</strong> AIoTI Group</footer>

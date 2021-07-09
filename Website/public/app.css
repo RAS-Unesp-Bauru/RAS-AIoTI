@@ -1,0 +1,97 @@
+body {
+ 	font-family: 'Roboto', sans-serif;
+ 	color: rgb(66,69,86);
+	text-align: center;
+	text-shadow: 0 .05rem .1rem rgba(0,0,0,.5);
+	height: 100%;
+  background-color: #772583;
+	/* background-image: url('http://site.ieee.org/sb-ufal/files/2018/02/IEEE_RAS_logo_no-background.png'); */
+	background-size: contain;
+  background-attachment: fixed; /* Deixando a imagem de fundo fixa */
+  backdrop-filter: blur(8px);
+	font-weight: 100;
+}
+
+h1 {
+	margin: 0;
+	font-size: 100px;
+	line-height: 200px;
+	font-weight: 0px;
+  color: white;
+}
+
+p {
+  margin: 0;
+  font-size: 50px;
+  color: white;
+}
+
+.form {
+	line-height: 1.5;
+	border: none;
+	border-bottom: 3px solid #ebebeb;
+	margin-top: 100px;
+	width: 700px;
+	font-size: 2.9em;
+	color: white;
+	padding: 5px 10px;
+	background: transparent;
+}
+
+button {
+    line-height: 2.0;
+    /* border: none; */
+    border:3px solid white;
+    font-size: 1.9em;
+    color: rgb(255,255,255);
+    padding: 1px 90px;
+    background: rgba(73,5,18,1.0);
+    border-radius: 15px;
+    /* opacity: 0.8; */
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: rgba(255,255,255,0.8);
+}
+input[type=text]:focus {
+  outline: none;
+}
+
+button:hover{
+  opacity: 0.8;
+  font-weight: bold;
+}
+
+table {
+  margin: 0 auto;
+  border: 1px solid black;
+  text-align: center;
+  vertical-align: center;
+  color: white;
+  background-color:#862633;
+  width: 80%;
+}
+
+td {
+  height: 40px;
+  border: 1px solid black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20;
+}
+
+th {
+  height: 40px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20;
+  font-weight: bold;
+  border: 1px solid black;
+}
+
+footer {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16;
+  text-align: right;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
